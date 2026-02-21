@@ -65,36 +65,6 @@ Python, PyTorch, HuggingFace Transformers, Natural Language Processing, Machine 
 ```bash
 pip install torch transformers datasets numpy
 ```
-Author
-
+## Author
 Nishtha Priya
-
-
 ---
-
-# One IMPORTANT thing you must change
-Replace:
-
-
-YOUR_USERNAME
-
-
-with your actual GitHub username:
-
-
-Nishtha-Priya
-
-
----
-
-# This README is now:
-
-- consistent with your ISL project style ✅  
-- professional ✅  
-- recruiter-friendly ✅  
-- GitHub-quality documentation ✅  
-
----
-
-If you want, I can also add a **demo GIF or screenshot section**, which makes the repo look even more impressive.
-4. 
