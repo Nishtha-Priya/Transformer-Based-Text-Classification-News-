@@ -66,5 +66,5 @@ Python, PyTorch, HuggingFace Transformers, Natural Language Processing, Machine 
 pip install torch transformers datasets numpy
 ```
 ## Author
-Nishtha Priya
+- Nishtha Priya-(https://github.com/nishtha-priya)
 ---
