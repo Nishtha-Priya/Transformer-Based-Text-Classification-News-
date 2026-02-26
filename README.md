@@ -1,4 +1,4 @@
-# Transformer-Based News Classification Model (BERT NLP)
+# 📰 Transformer-Based News Classification Model (BERT NLP)
 A transformer-based Natural Language Processing (NLP) system that classifies news text into major categories using a fine-tuned BERT model. <br>
 This repository contains a complete text classification pipeline built using PyTorch and HuggingFace Transformers. The model is trained on a labeled news dataset and supports interactive inference for classifying custom input text.
 
